@@ -3,8 +3,7 @@ title: "Spoken Russian Through the Lens of Humour"
 --- 
 
 # Umgangssprachliches Russisch mit Humor lernen
-### Slavisches Seminar, Universität Tubingen SS2018
-### Anastasia Bujanova
+### Anastasia Bujanova, Slavisches Seminar, Universität Tubingen SS2018
 
 Привет!
 
@@ -28,15 +27,35 @@ Mo 16 c.t. - 18
 
 
 ## Содержание курса:
-### 1. Введение. Знакомство.  
-Дата: 16.04.18  
-   * [Презентация 1: Введение]() 
-   * [Handout 1]() 
-   * [Вступительный тест (без оценки)]()
+### 1. Введение. Знакомство. Тема: "Русский язык и Россия"
+Дата: 16.04.18
+  * Вступление, обсуждение формальных моментов
+  * Знакомство: студенты представляют себя 
+  * Тест на определение общего языкового уровня студентов (без оценки)
+  * Знакомство с информационными источниками
+  * Типы юмористических текстов
+  
+
+    [Презентация 1: Введение]() 
+    [Handout 1]() 
+    [Вступительный тест]()
    
-   * ДЗ1
+    ДЗ1
 
 
+### 2. Тема  
+Дата: 23.04.18 
+   * [Презентация 2]() 
+   * [Handout 2]() 
+   
+   * ДЗ2
+
+### 3. Тема  
+Дата: 30.04.18 
+   * [Презентация 3]() 
+   * [Handout 3]() 
+   
+   * ДЗ3
 
 
 
@@ -46,4 +65,4 @@ Mo 16 c.t. - 18
 
 
 [Описание курса на сайте университета DE](https://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=169495&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y)  
-[Презентация курса EN](https://prezi.com/view/PeO734vZ3EnilUbcMSd8/)
+[Презентация курса EN]()
