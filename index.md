@@ -8,7 +8,7 @@
 [VK: Анастасия Буянова](https://vk.com/anaesthesiabuianova)  
 или отправьте сообщение по электронной почте [anastasia.d.buianova@gmail.com](anastasia.d.buianova@gmail.com).
 
-Всегда Ваша,  
+Всегда ваша,  
 Настя
 
 ### Markdown
