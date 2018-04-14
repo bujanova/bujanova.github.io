@@ -1,5 +1,8 @@
-# Spoken Russian Through the Lens of Humour
-### Slavisches Seminar, Universität Tübingen SS2018
+---
+title: "Spoken Russian Through the Lens of Humour"
+--- 
+subtitle: "Slavisches Seminar, Universität Tübingen SS2018"
+--- 
 
 Привет!
 
