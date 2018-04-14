@@ -2,11 +2,13 @@
 title: "Spoken Russian Through the Lens of Humour"
 --- 
 
+# Umgangssprachliches Russisch mit Humor lernen
+### Anastasia Bujanova, Slavisches Seminar, Universität Tubingen SS2018
 
 Привет!
 
 На этой страничке вы найдёте материалы, информацию, полезные ссылки, ведомости и всё остальное, что будет использоваться по ходу нашего курса. Наслаждайтесь!  
-Если у вас возникли вопросы, пожелания или замечания, не стесняйтесь написать мне где-нибуть здесь:  
+Если у вас возникли вопросы, пожелания или замечания, не стесняйтесь написать мне где-нибудь здесь:  
 [FB: Anastasia Buianova](https://www.facebook.com/anastasia.buianova)  
 [VK: Анастасия Буянова](https://vk.com/anaesthesiabuianova)  
 или отправьте сообщение по электронной почте [anastasia.d.buianova@gmail.com](anastasia.d.buianova@gmail.com).
@@ -27,8 +29,8 @@ Mo 16 c.t. - 18
 ## Содержание курса:
 ### 1. Введение. Знакомство.  
 Дата: 16.04.18  
-   * [Презентация 1: Введение]()  
-   * [Handout 1]()  
+   * [Презентация 1: Введение]() 
+   * [Handout 1]() 
    * [Вступительный тест (без оценки)]()
    
    * ДЗ1
