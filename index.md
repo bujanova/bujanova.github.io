@@ -15,8 +15,8 @@
 ### Информация о курсе
 
 Расписание:  
-Пн 16 c.t. - 18
-ÜR 426
+Пн 16 c.t. - 18  
+ÜR 426 Brechtbau
 
 [Описание курса на сайте университета | DE](https://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=169495&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y)  
 [Презентация курса | EN](https://prezi.com/view/PeO734vZ3EnilUbcMSd8/)
