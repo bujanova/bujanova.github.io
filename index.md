@@ -14,7 +14,7 @@
 
 ### Информация для студентов
 
-[Ведомость | стр. 1](https://docs.google.com/spreadsheets/d/1tdinptxIFDalAQa3iHYhIRKybBKyOelF3qSb4YBjzXc/edit#gid=1748941722) - [Домашнее задание | стр. 2](https://docs.google.com/spreadsheets/d/1tdinptxIFDalAQa3iHYhIRKybBKyOelF3qSb4YBjzXc/edit#gid=0) - [Формула курса | стр. 2](https://docs.google.com/spreadsheets/d/1tdinptxIFDalAQa3iHYhIRKybBKyOelF3qSb4YBjzXc/edit#gid=163382033)
+[Ведомость стр. 1](https://docs.google.com/spreadsheets/d/1tdinptxIFDalAQa3iHYhIRKybBKyOelF3qSb4YBjzXc/edit#gid=1748941722) - [Домашнее задание стр. 2](https://docs.google.com/spreadsheets/d/1tdinptxIFDalAQa3iHYhIRKybBKyOelF3qSb4YBjzXc/edit#gid=0) - [Формула курса стр. 3](https://docs.google.com/spreadsheets/d/1tdinptxIFDalAQa3iHYhIRKybBKyOelF3qSb4YBjzXc/edit#gid=163382033)
 
 ***Расписание:***  
 Mo 16 c.t. - 18  
@@ -35,5 +35,5 @@ Mo 16 c.t. - 18
 ## Информация о курсе
 
 
-[Описание курса на сайте университета | DE](https://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=169495&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y)  
-[Презентация курса | EN](https://prezi.com/view/PeO734vZ3EnilUbcMSd8/)
+[Описание курса на сайте университета DE](https://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=169495&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y)  
+[Презентация курса EN](https://prezi.com/view/PeO734vZ3EnilUbcMSd8/)
