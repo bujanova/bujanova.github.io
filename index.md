@@ -1,9 +1,10 @@
-# Spoken Russian Through the Lens of Humour
+## Spoken Russian Through the Lens of Humour
+### Universität Tübingen
 
 Привет!
 
-Здесь вы найдёте материалы для нашего курса. Наслаждайтесь!  
-Если у вас возникли вопросы или пожелания, не стесняйтесь написать мне где-нибуть здесь:  
+На этой страничке вы найдёте материалы, информацию, полезные ссылки, ведомости и всё остальное, что будет использоваться в ходе нашего курса. Наслаждайтесь!  
+Если у вас возникли вопросы, пожелания или замечания, не стесняйтесь написать мне где-нибуть здесь:  
 [FB: Anastasia Buianova](https://www.facebook.com/anastasia.buianova)  
 [VK: Анастасия Буянова](https://vk.com/anaesthesiabuianova)  
 или отправьте сообщение по электронной почте [anastasia.d.buianova@gmail.com](anastasia.d.buianova@gmail.com).
@@ -11,9 +12,12 @@
 Всегда ваша,  
 Настя
 
-### Markdown
+### Информация о курсе
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Расписание:  
+***Пн 16:00 - 18:00***  
+ÜR ***426***
+
 
 ```markdown
 Syntax highlighted code block
@@ -35,10 +39,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bujanova/bujanova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
