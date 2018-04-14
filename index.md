@@ -38,7 +38,7 @@ Mo 16 c.t. - 18
 
     [Презентация 1: Введение]() 
     [Handout 1]() 
-    [Вступительный тест]()
+    [Тест](https://docs.google.com/document/d/1PmCIyw2Zj6Ke-U_ukVokoDMAAzu1fmiuqxcZwZRPROo/edit?usp=sharing)
    
     ДЗ1
 
