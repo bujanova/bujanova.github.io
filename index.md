@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# Spoken Russian Through the Lens of Humour
 
-You can use the [editor on GitHub](https://github.com/bujanova/bujanova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Привет!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Здесь вы найдёте материалы для нашего курса. Наслаждайтесь!  
+Если у вас возникли вопросы или пожелания, не стесняйтесь написать мне где-нибуть здесь:  
+[FB: Anastasia Buianova](https://www.facebook.com/anastasia.buianova)  
+[VK: Анастасия Буянова](https://vk.com/anaesthesiabuianova)  
+или отправьте сообщение по электронной почте [anastasia.d.buianova@gmail.com](anastasia.d.buianova@gmail.com).
+
+Всегда Ваша,  
+Настя
 
 ### Markdown
 
