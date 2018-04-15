@@ -3,7 +3,7 @@ title: "Spoken Russian Through the Lens of Humour"
 --- 
 
 # Umgangssprachliches Russisch mit Humor lernen
-### Anastasia Bujanova, Slavisches Seminar, Universität Tubingen SS2018
+### Anastasia Bujanova, Slavisches Seminar, Universität Tübingen SS2018
 
 Привет!
 
