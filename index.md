@@ -34,7 +34,7 @@ Mo 16 c.t. - 18
    * [Тест](https://github.com/bujanova/bujanova.github.io/blob/master/%D0%A2%D0%B5%D1%81%D1%82.%20%D0%93%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0.pdf)
    
    * [Классная работа](https://docs.google.com/document/d/1H2jArP20lf035M7Hm_rOInwfnIbkl-6lITGmjbiEYGo/edit?usp=sharing)
-   * [Домашняя работа]() 
+   * Домашняя работа: Deadline 23.04.18 16:15
 
 
 ### 2. Тема: Проблемы в России: Здравоохранение
