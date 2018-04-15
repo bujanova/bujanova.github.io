@@ -29,11 +29,11 @@ Mo 16 c.t. - 18
 ## Содержание курса:
 ### 1. Введение. Знакомство. Тема: Русский язык и Россия
 Дата: 16.04.18
-   * [Презентация 1: Введение]() 
-   * [Handout 1: Введение]() 
+   * [Презентация 1: Введение](https://prezi.com/view/MaravmUVbUYtziX8Z9G8/) 
+   * [Handout 1: Информация для студентов](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%201%20-%20Google%20Docs.pdf)
    * [Тест](https://github.com/bujanova/bujanova.github.io/blob/master/%D0%A2%D0%B5%D1%81%D1%82.%20%D0%93%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0.pdf)
    
-   * [Классная работа]()
+   * [Классная работа](https://docs.google.com/document/d/1H2jArP20lf035M7Hm_rOInwfnIbkl-6lITGmjbiEYGo/edit?usp=sharing)
    * [Домашняя работа]() 
 
 
