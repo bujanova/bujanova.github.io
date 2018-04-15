@@ -38,7 +38,7 @@ Mo 16 c.t. - 18
 
     [Презентация 1: Введение]() 
     [Handout 1]() 
-    [Тест](https://docs.google.com/document/d/1PmCIyw2Zj6Ke-U_ukVokoDMAAzu1fmiuqxcZwZRPROo/edit?usp=sharing)
+    [Тест](https://github.com/bujanova/bujanova.github.io/blob/master/%D0%A2%D0%B5%D1%81%D1%82.%20%D0%93%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0.pdf)
    
     ДЗ1
 
