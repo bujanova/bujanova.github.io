@@ -108,7 +108,9 @@ Mo 16 c.t. - 18
    * Handout
    
 
+## Библиография
 
+  * [В.А. Ряшенцев "Учебные материалы для работы над фильмом "Бриллиантовая рука"](https://github.com/bujanova/bujanova.github.io/upload/master)
 
 
 ## Информация о курсе
