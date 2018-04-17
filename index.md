@@ -24,6 +24,7 @@ title: "Spoken Russian Through the Lens of Humour"
 Mo 16 c.t. - 18  
 ÜR 426 Brechtbau
 
+[Наш групповой чатик в Telegram (можно присоединиться, нажав на ссылку)](https://t.me/joinchat/GwoRSwvpYRQ2X_QvT3N7Wg)
 
 
 ## Содержание курса:
