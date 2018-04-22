@@ -40,10 +40,14 @@ Mo 16 c.t. - 18
 
 ### 2. Тема: Проблемы в России: Здравоохранение
 Дата: 23.04.18 
-   * Презентация
-   * Handout
+   * [Handout 2](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%202.%20Buianova.pdf)  
+   * [Классная работа](https://docs.google.com/document/d/1JcITLHoJ7dOn-BWv2Ms7CpQ4LdzU161U8D_Y7VhR34Y/edit)  
+   
+   * Домашняя работа:  
+   Deadline для носителей языка 28.04.18 23:59  
+   Deadline для всех остальных 30.04.18 16:15  
 
-### 3. Тема: Спорт, здоровый образ жизни
+### 3. Тема: Семья, отношения.
 Дата: 30.04.18
    * Презентация
    * Handout
