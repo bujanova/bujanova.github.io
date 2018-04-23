@@ -41,7 +41,8 @@ Mo 16 c.t. - 18
 ### 2. Тема: Проблемы в России: Здравоохранение
 Дата: 23.04.18 
    * [Handout 2](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%202.%20Buianova.pdf)  
-   * [Классная работа](https://docs.google.com/document/d/1JcITLHoJ7dOn-BWv2Ms7CpQ4LdzU161U8D_Y7VhR34Y/edit)  
+   * [Классная работа](https://docs.google.com/document/d/1vLw8UsnKkKAMRsi0XKfIFyReuC2WcpdMK1SlrrS3eU0/edit?usp=sharing)  
+   * [Brain storm](https://docs.google.com/document/d/1JcITLHoJ7dOn-BWv2Ms7CpQ4LdzU161U8D_Y7VhR34Y/edit)
    
    * Домашняя работа:  
    Deadline для носителей языка 28.04.18 23:59  
