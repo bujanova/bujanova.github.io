@@ -50,9 +50,8 @@ Mo 16 c.t. - 18
 
 ### 3. Тема: Семья, отношения
 Дата: 30.04.18
-   * [Handout 3](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%202.%20Buianova.pdf)  
-   * [Классная работа]()    
-   * [Дискуссия]()
+   * [Handout 3](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%203.%20Buianova%20-%20Google%20Docs.pdf)  
+   * [Классная работа](https://docs.google.com/document/d/1s8YaMsWZRb8TBXlqj5TmaD995JpHNmm2lcnL41oXA40/edit)    
    
    * Домашняя работа:  
    Deadline для всех 07.05.18 16:15  
