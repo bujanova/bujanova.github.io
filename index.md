@@ -88,7 +88,7 @@ Mo 16 c.t. - 18
    
    * Выражение радости. Глава 3.
    
-   [Видео-материал: Универ "Кузя. Общага"](https://www.youtube.com/watch?v=EeWnxzpMKqI) 
+   [Видео-материал: Универ "Кузя. Общага"](https://www.youtube.com/watch?v=EeWnxzpMKqI)  
    [Видео-материал: КВН Физтех "Студенческая мафия"](https://www.youtube.com/watch?v=vYqrcMNCFwQ)  
    [Видео-материал: КВН Станция спортивная "Гимн студентов. Грузчик"](https://www.youtube.com/watch?v=Gg4RxjR_CiQ)  
    [Видео-материал: КВН Триод и Диод "Экзамен по физике"](https://youtu.be/DYNq4_OaLJY)
