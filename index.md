@@ -98,6 +98,11 @@ Mo 16 c.t. - 18
    * [Handout 6](https://docs.google.com/document/d/1anbaR6jpGoVZvwnELnaxK8ayUPblMJgDejKTdHxHQDI/edit)  
    * [Классная работа](https://docs.google.com/document/d/1OR3RGjRwDp0zbPX1ElWWuwLzUCt27Ptcyz4sft-U9R4/edit)  
    
+   [Видео-материал: Уральские пельмени "В казарме"](https://www.youtube.com/watch?v=yO4tngoVTIg)  
+   [Видео-материал: Уральские пельмени "Суперлогист"](https://www.youtube.com/watch?v=Vwx5FGGZevI&list=PLnWvftJZpjxyKDds1xGwrZzhr6UC7eW4x&index=2)  
+   [Видео-материал: Сериал "Солдаты", поиск повара](https://www.youtube.com/watch?v=A47rnCCXvSU) 
+   
+   
    * Домашняя работа:  
    Deadline для всех 04.06.18 16:15 
   
