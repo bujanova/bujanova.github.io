@@ -116,9 +116,11 @@ Mo 16 c.t. - 18
 
 ### 9. Тема: Мультфильмы
 Дата: 18.06.2018			
-   * [Handout 9]()
+   * [Handout 9](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%209%20(1).pdf)
+   * [Классная работа](https://docs.google.com/document/d/1W9RkjyD-moKa_jRJCdaQ5rmHUW4gG2XUW5dq0Ep2Qzg/edit?usp=sharing)
    
-   [Видео-материал]()
+   [Видео-материал: КВН "Винни Пух и все все все, мёд замешан на крови](https://www.youtube.com/watch?v=GlBr8KrANDU)  
+   [Видео-материал: КВН РУДН "Ария саундтрек к мультфильму "Винни Пух"](https://www.youtube.com/watch?v=KVYuJ-y-01Y)  
 
 ### 10. Тема: Путешествие во времени: Российская Империя
 Дата: 25.06.2018			
