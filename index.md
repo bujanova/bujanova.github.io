@@ -129,12 +129,15 @@ Mo 16 c.t. - 18
    
    Медиа-материал: прямая трансляция матча ЧМ 2018 Россия-Уругвай  
 
-### 11. Тема: Искусство
+### 11. Тема: Путешествие во времени: Древняя Русь и Сказки
 Дата: 02.07.2018			
-   * Презентация
-   * Handout
+   * [Пунктуация. Грамота.ру](http://new.gramota.ru/spravka/rules/144-zap)
+   * [Handout](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%2011.pdf)
+   * [Сказки для урока](https://github.com/bujanova/bujanova.github.io/blob/master/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0%20%D0%BE%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B5%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%BA%D0%B5.pdf)
+   
+   [Видео-материал: КВН МаксимуМ "Русские Сказители"](https://www.youtube.com/watch?v=YCai6GHmTy8)
 
-### 12. Тема: Путешествие во времени: Древняя Русь и Сказки
+### 12. Тема: Искусство
 Дата: 09.07.2018			
    * Презентация
    * Handout
