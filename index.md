@@ -139,18 +139,18 @@ Mo 16 c.t. - 18
 
 ### 12. Тема: Искусство
 Дата: 09.07.2018			
-   * Презентация
-   * Handout
+   * [Handout](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%2012.pdf)
+   
+   [Видео-материал: КВН Утомлённые Солнцем "Пушкин, Гоголь и Толстой"](https://www.youtube.com/watch?v=FDgoTw0RvQo)  
+   [Видео-материал: Женитьба Бальзаминова с русскими субтитрами](https://megogo.net/ru/view/1360461-zhenitba-balzaminova.html)  
 
 ### 13. Тема: Лига Смеха и КВН
 Дата: 16.07.2018			
-   * Презентация
    * Handout
 
 ### 14. ЭКЗАМЕН
 Дата: 23.07.2018	 
-   * Презентация
-   * Handout
+   * Пример экзамена
    
 
 ## Библиография
