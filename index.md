@@ -141,16 +141,14 @@ Mo 16 c.t. - 18
 Дата: 09.07.2018			
    * [Handout](https://github.com/bujanova/bujanova.github.io/blob/master/Handout%2012.pdf)
    
-   [Видео-материал: КВН Утомлённые Солнцем "Пушкин, Гоголь и Толстой"](https://www.youtube.com/watch?v=FDgoTw0RvQo)  
-   [Видео-материал: Женитьба Бальзаминова с русскими субтитрами](https://megogo.net/ru/view/1360461-zhenitba-balzaminova.html)  
+   [Видео-материал: КВН Утомлённые Солнцем "Пушкин, Гоголь и Толстой"](https://www.youtube.com/watch?v=FDgoTw0RvQo)   
 
 ### 13. Тема: Лига Смеха и КВН
 Дата: 16.07.2018			
-   * Handout
+   [Видео-материал: Женитьба Бальзаминова с русскими субтитрами](https://megogo.net/ru/view/1360461-zhenitba-balzaminova.html)   
 
 ### 14. ЭКЗАМЕН
 Дата: 23.07.2018	 
-   * Пример экзамена
    
 
 ## Библиография
@@ -161,7 +159,8 @@ Mo 16 c.t. - 18
   * А.А. Акиншина, Т.Е. Акиншина "Эмоции и мнения. Выражение чувств в русском языке"  
   * Е.В. Шаульский, С.В. Князев "Русская диалектология. Фонетика"  
   * О.И. Глазунова "Грамматика русского языка. Морфология"  
-  * [L. A. Janda, O. Lyashevskaya  "Semantic Profiles of Five Russian Prefixes: po-, s-, za-, na-, pro-*"](http://ansatte.uit.no/laura.janda/mypubs/Janda-Lyashevskaya%2010-12-12.pdf)
+  * L. A. Janda, O. Lyashevskaya  "Semantic Profiles of Five Russian Prefixes: po-, s-, za-, na-, pro-*"
+  * [Д.Э. Розенталь, "Справочник по правописанию и стилистике"](https://github.com/bujanova/bujanova.github.io/blob/master/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D1%81%D0%BB%D0%BE%D0%B2%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.pdf)
 
 ## Информация о курсе
 
